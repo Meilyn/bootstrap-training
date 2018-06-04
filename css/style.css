@@ -6,7 +6,7 @@ body,
 	height: 100%;
 }
 #Mei {
-	color: #ff005a;
+	color: #ff3c00;
 }
 
 .carousel-inner img {
@@ -18,4 +18,8 @@ body,
     top: 40%;
     bottom: auto;
     text-transform: uppercase;
+}
+
+.jumbotron {
+	color: white;
 }
