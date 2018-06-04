@@ -14,7 +14,9 @@ body,
       height: 100%;
  }
 
-
+.container {
+	margin-top: 25px;
+}
  
  .carousel-caption {
     top: 40%;
