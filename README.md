@@ -1,4 +1,9 @@
 ## Bootstrap
+### Introduction
+
+Utilisation du Bootstrap (Framework CSS). Comme moyen de développement rapide pour le frontend. ça permet de récupér des solutions toutes faites à des problèmes courants du développement Frontend :
+
+### Exercices
 
 * faire une grille responsive
 * faire un menu responsif
