@@ -12,4 +12,6 @@ Utilisation du Bootstrap (Framework CSS). Comme moyen de développement rapide p
 * normaliser la typographie
 * éléments interfaces "riches": carrousels, jumbo menu, ... 
 
-[EXERCICE COURS](https://meilyn.github.io/bootstrap-training/)
+[Website](https://meilyn.github.io/bootstrap-training/)
+
+![Screenshot](img/bootstrap.png)
